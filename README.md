@@ -1,4 +1,4 @@
-## Bem vindo a página dos desenvoldores da comunidade amapá dev
+## Bem vindo a página dos desenvolvedores da comunidade amapá dev
 
 
 
