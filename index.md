@@ -2,38 +2,30 @@
 
 Este é um espaço para compartilhar as experiências e carreira dos(as) profissionais que atuam no mercado de desenvolvimento de software em terras tucujus.
 
-Para enviar seu protifólio basta editar este arquivo [Aqui](https://github.com/amapadev/devs/edit/master/index.md).
+Para enviar seu protifólio basta editar este arquivo [Aqui](https://github.com/amapadev/devs/edit/master/index.md) e enviar um pull request nesse repositótio.
+
+## Edilton Danniken 
+>  * <img src="https://pt.gravatar.com/userimage/74682441/8f4e507cb1668e9b3187c81693b1b540.jpg"  height="70" width="70"> <img>
+>  * Sobre: Entusiasta, programador, estudante e alguns anos de estrada, atualmente Analista de TI no IFAP.
+>  * Principais Tecnologias:Pyhton, PHP, JavaScript
+>  * Áreas de Interesse : Machine Learning, Desenvolvimento Web e Propriedade Intelectual 
+>  * Email:ediltondanniken@gmail.com
+>  * [GitHub](https://github.com/Edilton)
+>  * [Conheça mais sobre Edilton Aqui ]( http://lattes.cnpq.br/6440518113857818)
 
 
+###### Template
 
-### Markdown
+## Seu Nome
+>  * <img src="link para sua foto"  height="70" width="70"> <img>
+>  * Sobre: Faça sua descrição, venda seu peixe
+>  * Principais Tecnologias: Coloque as tecnologias que trabalha ou gostaria de trabalhar
+>  * Áreas de Interesse : Suas areas de interesse
+>  * Email: 
+>  * [GitHub](coloque aqui o link do github)
+>  * [Conheça mais sobre Seu nome Aqui ](cole aqui o link do seu site pessoal ou linkedin)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amapadev/devs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Caso queria saber mais sobre Markdown [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
