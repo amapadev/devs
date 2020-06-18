@@ -14,6 +14,15 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 >  * [Conheça mais sobre Edilton Aqui ]( http://lattes.cnpq.br/6440518113857818).
 
 
+## Gabriel Silva 
+>  * <img src="https://avatars1.githubusercontent.com/u/38441833?s=460&u=1a22885d9a04e26e73fb3c96655d6d418607a7dd&v=4"  height="70" width="70"> <img>
+>  * Sobre: Entusista em Natural Language Processing e em desenvolvimento de sistemas para web e mobile, engenharia e arquitetura de software. Atualmente sou desenvolvedor e Arquiteto de Software Python no Centro de Gestão da Tecnologia da Informação - PRODAP.
+>  * Principais Tecnologias: Python, JavaScript, .net Core e Dart.
+>  * Áreas de Interesse: Natural Language Processing, Desenvolvimento mobile e web, Arquitetura e Engenharia de Software. 
+>  * Email: bsmgabrielsilva@gmail.com.
+>  * [GitHub](https://github.com/bsgabrielsilva)
+>  * [Linkedin](https://linkedin.com/in/bsgabrielsilva)
+
 ###### Template
 
 ## Seu Nome
