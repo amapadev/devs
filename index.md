@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Bem vindo a página dos desenvolvedores(as) da comunidade amapá dev
 
-You can use the [editor on GitHub](https://github.com/amapadev/devs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Este é um espaço para compartilhar as experiências e carreira dos(as) profissionais que atuam no mercado de desenvolvimento de software em terras tucujus.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Para enviar seu protifólio basta editar este arquivo [Aqui](https://github.com/amapadev/devs/edit/master/index.md).
+
+
 
 ### Markdown
 
