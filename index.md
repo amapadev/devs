@@ -32,6 +32,16 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 >  * [GitHub](https://github.com/ptsilva)
 >  * [Linkedin](https://www.linkedin.com/in/ptsilva)
 
+## Josué Barros
+>  * <img src="https://avatars3.githubusercontent.com/u/39782688?s=460&u=1a984e2eb5f045bfcb59e780bf11cbf3c8cbabea&v=4"  height="70" width="70"> <img>
+>  * Sobre: Formando em Ciência da Computação pela Universidade Federal do Amapá. Técnico em redes de computadores pela Faculdade de Macapá.
+>  * Principais Tecnologias: PHP, Node.js, React JS, MySQL, PostgreSQL, MongoDB.
+>  * Áreas de Interesse : Desenvolvimento web. Banco de Dados. DevOps.
+>  * Email: josue.barros1986@gmail.com
+>  * [GitHub](https://github.com/JoshuaWebDev)
+>  * [Linkedin](https://www.linkedin.com/in/joshuawebdev/)
+>  * [About me](https://joshuawebdev.wordpress.com/sobre/)
+
 ###### Template
 
 ## Seu Nome
