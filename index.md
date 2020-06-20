@@ -1,4 +1,4 @@
-## Bem vindo a página dos desenvolvedores(as) da comunidade Amapá Dev
+## Bem vindo a página dos(as) desenvolvedores(as) da comunidade Amapá Dev
 
 Este é um espaço para compartilhar as experiências e carreira dos(as) profissionais que atuam no mercado de desenvolvimento de software em terras tucujus.
 
