@@ -4,6 +4,16 @@ Este é um espaço para compartilhar as experiências e carreira dos(as) profiss
 
 Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/amapadev/devs/edit/master/index.md) e enviar um pull request nesse repositótio.
 
+## Vinícius Carvalho
+>  * <img src="https://avatars0.githubusercontent.com/u/22005684?s=460&u=b950a6cf4e12e66a7187f33407abb88389e5250d&v=4"  height="70" width="70"/>
+>  * Sobre: Analista de Tecnologia da Informação do quadro efetivos de servidores do Amapá, lotado no Prodap. Atualmente chefiando a equipe de produção do Diário Oficial do Estado, sócio-proprietário da Inex Ltda, atua como desenvolvedor sênior fullstack Javascript.
+>  * Principais Tecnologias: JavaScript, Java, PHP, Ruby e C# :metal:
+>  * Áreas de Interesse: Arquitetura e Engenharia de Software, Analise de Requisitos e Bancos de dados, Desenvolvimento Mobile, Web e Desktop.
+>  * Email: carvalho.viniciusluiz@gmail.com.
+>  * [GitHub](https://github.com/carvalhoviniciusluiz)
+>  * [Linkedin](https://www.linkedin.com/in/vin%C3%ADcius-carvalho-148b15189/)
+
+
 ## Edilton Danniken 
 >  * <img src="https://pt.gravatar.com/userimage/74682441/8f4e507cb1668e9b3187c81693b1b540.jpg"  height="70" width="70"/>
 >  * Sobre: Entusiasta, programador, estudante e alguns anos de estrada, atualmente Analista de TI no IFAP.
