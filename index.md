@@ -13,6 +13,15 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 >  * [GitHub](https://github.com/carvalhoviniciusluiz)
 >  * [Linkedin](https://www.linkedin.com/in/vin%C3%ADcius-carvalho-148b15189/)
 
+## Maurício Silva
+>  * <img src="https://avatars2.githubusercontent.com/u/30706781?s=460&u=bf2ea41718bec46c5c177064b264d0e16e9e62e2&v=4"  height="70" width="70"/>
+>  * Sobre: Formado em Sistemas para Internet pela Faculdade Meta, Atualmente estudando, em constante evolução e pondo em prática desenvolvendo projetos como Freelancer.
+>  * Principais Tecnologias: NodeJs, PHP & Laravel, ReactJs & React Native. 
+>  * Áreas de Interesse: Desenvolvimento Web e Mobile.
+>  * Email: mausilva828@gmail.com
+>  * [GitHub](https://github.com/MauricioSilv)
+>  * [Linkedin](https://www.linkedin.com/in/mauriciosilv/)
+
 
 ## Edilton Danniken 
 >  * <img src="https://pt.gravatar.com/userimage/74682441/8f4e507cb1668e9b3187c81693b1b540.jpg"  height="70" width="70"/>
