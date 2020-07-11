@@ -61,6 +61,15 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 >  * [Linkedin](https://www.linkedin.com/in/joshuawebdev/)
 >  * [About me](https://joshuawebdev.wordpress.com/sobre/)
 
+## Daniel Albuquerque
+>  * <img src="https://avatars3.githubusercontent.com/u/6063722?s=80&v=4"  height="70" width="70"> <img>
+>  * Sobre: Engenheiro de Software na empresa ErpServ.
+>  * Principais Tecnologias: .NetCore, TL++/AdvPL, Flutter, Angular e PHP.
+>  * Áreas de Interesse: Desenvolvimento mobile/web, Oracle, SqlServer, Docker, Totvs Protheus, DevOps.
+>  * Email: daniel.alb.querque@gmail.com
+>  * [GitHub](https://github.com/danielAlbuquerque)
+>  * [Linkedin](https://www.linkedin.com/in/daniel-albuquerque-b0648090/)
+
 ###### Template
 
 ## Seu Nome
