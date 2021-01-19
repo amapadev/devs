@@ -70,6 +70,16 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 >  * [GitHub](https://github.com/danielAlbuquerque)
 >  * [Linkedin](https://www.linkedin.com/in/daniel-albuquerque-b0648090/)
 
+## Anthoni Ipiranga
+>  * <img src="https://avatars0.githubusercontent.com/u/17752700?s=460&u=c5cb362cec874e0facc3b402be1b772df89e6e46&v=4"  height="70" width="70"/>
+>  * Sobre: Formado em redes de computadores pelo IFAP e atualmente estudando Ciência da computação na UNIFAP. Atuando como desenvolvedor Android.
+>  * Principais Tecnologias: Android SDK,Android nativo em Java/Kotlin,Firebase,Retrofit,Material Design.
+>  * Áreas de Interesse : Mobile nativo(Android e IOS).
+>  * Email: anthoni.ipiranga@gmail.com
+>  * [GitHub](https://github.com/AnthoniIP)
+>  * [Linkedin](https://www.linkedin.com/in/anthoniipiranga/)
+>  * [Conheça mais sobre Anthoni](https://aidev.com.br)
+
 ###### Template
 
 ## Seu Nome
@@ -80,6 +90,8 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 >  * Email: 
 >  * [GitHub](coloque aqui o link do github)
 >  * [Conheça mais sobre Seu nome Aqui ](cole aqui o link do seu site pessoal ou linkedin)
+
+
 
 
 
