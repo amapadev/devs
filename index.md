@@ -80,6 +80,15 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 >  * [Linkedin](https://www.linkedin.com/in/anthoniipiranga/)
 >  * [Conheça mais sobre Anthoni](https://aidev.com.br)
 
+## Johnathan Rocha
+>  * <img src="https://avatars.githubusercontent.com/u/52468127?s=400&u=616b07100fb4ab85bb8428dee69530c2329dde65&v=4"  height="70" width="70"/>
+>  * Sobre: Graduado em Redes de Computadores (SEAMA) e cursando Ciência da Computação na Universidade Federal do Amapá (UNIFAP). Atualmente estou atuando como analista de requisitos e de negócios voltados à sistemas de informação.
+>  * Principais Tecnologias: Dart/Flutter, PHP/Laravel, Javascript/NodeJs e atualmente me aventurando em C#/.NET.
+>  * Áreas de Interesse : Web e Mobile.
+>  * Email: johnathanrocha@gmail.com
+>  * [GitHub](https://github.com/John-Rocha)
+>  * [Linkedin](https://www.linkedin.com/in/johnathan-rocha-27574a191/)
+
 ###### Template
 
 ## Seu Nome
