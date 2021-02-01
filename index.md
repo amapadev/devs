@@ -89,6 +89,16 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 >  * [GitHub](https://github.com/John-Rocha)
 >  * [Linkedin](https://www.linkedin.com/in/johnathan-rocha-27574a191/)
 
+## Eduardo Worrel
+>  * <img src="https://eduardoworrel.com/imgs/eu.jpeg"  height="70" width="70"/>
+>  * Sobre: Desenvolvedor C# Pleno na Tegra LTDA, Especializado em Arquiterura de Software e Docência do Ensino Superior.
+>  * Principais Tecnologias: .NET, PHP, Javascript, Docker, Git, Swagger entre outras.
+>  * Áreas de Interesse : Scrum e Metodologias ágeis, Arquitetura e Engenharia de Software, Educação, Artes, Ciencias e Filosofias.
+>  * Email: eduardo.worrel@gmail.com
+>  * [GitHub](https://github.com/eduardoworrel)
+>  * [Portfólio](https://eduardoworrel.com)
+>  * [Linkedin](https://www.linkedin.com/in/eduardoworrel/)
+
 ## Leon Paolo
 >  * <img src="https://avatars.githubusercontent.com/u/40367631?s=400&u=6a81583f9f7150dfd6971d88113382b62dfaac93&v=4"  height="70" width="70"/>
 >  * Sobre: Graduado em sistema para internert (Faculdade Meta), atualmente desenvolvendo projeto para aborização urbana, em constante evolução nas técnicas de desenvolvimento.
