@@ -74,7 +74,7 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 >  * <img src="https://avatars0.githubusercontent.com/u/17752700?s=460&u=c5cb362cec874e0facc3b402be1b772df89e6e46&v=4"  height="70" width="70"/>
 >  * Sobre: Formado em redes de computadores pelo IFAP e atualmente estudando Ciência da computação na UNIFAP. Atuando como desenvolvedor Android.
 >  * Principais Tecnologias: Android SDK,Android nativo em Java/Kotlin,Firebase,Retrofit,Material Design.
->  * Áreas de Interesse : Mobile nativo(Android e IOS), clean architecture, arquitetura de software, engenharia de software, design patterns.
+>  * Áreas de Interesse : Mobile nativo(Android e IOS).
 >  * Email: anthoni.ipiranga@gmail.com
 >  * [GitHub](https://github.com/AnthoniIP)
 >  * [Linkedin](https://www.linkedin.com/in/anthoniipiranga/)
@@ -88,6 +88,16 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 >  * Email: johnathanrocha@gmail.com
 >  * [GitHub](https://github.com/John-Rocha)
 >  * [Linkedin](https://www.linkedin.com/in/johnathan-rocha-27574a191/)
+
+## Eduardo Worrel
+>  * <img src="https://eduardoworrel.com/imgs/eu.jpeg"  height="70" width="70"/>
+>  * Sobre: Desenvolvedor C# Pleno na Tegra LTDA, Especializado em Arquiterura de Software e Docência do Ensino Superior.
+>  * Principais Tecnologias: .NET, PHP, Javascript, Docker, Git, Swagger entre outras.
+>  * Áreas de Interesse : Scrum e Metodologias ágeis, Arquitetura e Engenharia de Software, Educação, Artes, Ciencias e Filosofias.
+>  * Email: eduardo.worrel@gmail.com
+>  * [GitHub](https://github.com/eduardoworrel)
+>  * [Portfólio](https://eduardoworrel.com)
+>  * [Linkedin](https://www.linkedin.com/in/eduardoworrel/)
 
 ###### Template
 
