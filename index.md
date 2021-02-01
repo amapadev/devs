@@ -91,7 +91,7 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 
 ## Leon Paolo
 >  * <img src="https://avatars.githubusercontent.com/u/40367631?s=400&u=6a81583f9f7150dfd6971d88113382b62dfaac93&v=4"  height="70" width="70"/>
->  * Sobre: Graduado em sistema para internert (Faculdade Meta), atualmente desenvolvendo projeto para aborização urbana, em constante evolução nas técnicas de desenvolvendo.
+>  * Sobre: Graduado em sistema para internert (Faculdade Meta), atualmente desenvolvendo projeto para aborização urbana, em constante evolução nas técnicas de desenvolvimento.
 >  * Principais Tecnologias: PHP/Laravel. 
 >  * Principais Tecnologias: PHP/Laravel, Javascript/NodeJs.
 >  * Áreas de Interesse : Web, Mobile, Segurança da informação, Java.
