@@ -78,7 +78,7 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 >  * Email: anthoni.ipiranga@gmail.com
 >  * [GitHub](https://github.com/AnthoniIP)
 >  * [Linkedin](https://www.linkedin.com/in/anthoniipiranga/)
->  * [Conheça mais sobre Anthoni](https://aidev.com.br)
+>  * [Conheça mais sobre Anthoni](http://aidev.com.br)
 
 ## Johnathan Rocha
 >  * <img src="https://avatars.githubusercontent.com/u/52468127?s=400&u=616b07100fb4ab85bb8428dee69530c2329dde65&v=4"  height="70" width="70"/>
