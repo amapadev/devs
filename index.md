@@ -72,8 +72,8 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 
 ## Anthoni Ipiranga
 >  * <img src="https://avatars0.githubusercontent.com/u/17752700?s=460&u=c5cb362cec874e0facc3b402be1b772df89e6e46&v=4"  height="70" width="70"/>
->  * Sobre: Formado em redes de computadores pelo IFAP e atualmente estudando Ciência da computação na UNIFAP. Atuando como desenvolvedor Android na [HANZO](https://www.hanzo.com.br/).
->  * Principais Tecnologias: Android SDK,Android nativo em Java/Kotlin,Firebase,Retrofit,Material Design.
+>  * Sobre: Formado em redes de computadores pelo IFAP e atualmente cursando Ciência da computação na UNIFAP. Atuando como desenvolvedor Android na [HANZO](https://www.hanzo.com.br/).
+>  * Principais Tecnologias: Android SDK,Android nativo em Java/Kotlin,Firebase,Retrofit,Material Design, Coroutines, RXJava.
 >  * Áreas de Interesse : Mobile nativo(Android e IOS), clean architecture, arquitetura de software, engenharia de software, design patterns.
 >  * Email: anthoni.ipiranga@gmail.com
 >  * [GitHub](https://github.com/AnthoniIP)
