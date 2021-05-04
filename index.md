@@ -109,6 +109,15 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 >  * [GitHub](https://github.com/leonpaolo)
 >  * [Linkedin](https://www.linkedin.com/in/leon-paolo-206166122/)
 
+## Luís Vitor
+>  * <img src="https://avatars.githubusercontent.com/u/78814807?v=4"  height="70" width="70"/>
+>  * Sobre: Cursando Sistemas da Informação e formado como Técnico em Redes de Computadores.
+>  * Principais Tecnologias: JavaScript/TypeScript, NodeJS, ReactJS.
+>  * Áreas de Interesse : Desenvolvimento web e mobile.
+>  * Email: luis.sg.vitor@gmail.com
+>  * [GitHub](https://github.com/stra1g)
+>  * [Linkedin](https://www.linkedin.com/in/lu%C3%ADs-vitor-vilhena-alves-9568a5206/)
+
 ###### Template
 
 ## Seu Nome
