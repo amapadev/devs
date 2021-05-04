@@ -111,14 +111,14 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 
 ###### Template
 
-## Seu Nome
->  * <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"  height="70" width="70"/>
->  * Sobre: Faça sua descrição, venda seu peixe.
->  * Principais Tecnologias: Coloque as tecnologias que trabalha ou gostaria de trabalhar.
->  * Áreas de Interesse : Suas areas de interesse.
->  * Email: 
->  * [GitHub](coloque aqui o link do github)
->  * [Conheça mais sobre Seu nome Aqui ](cole aqui o link do seu site pessoal ou linkedin)
+## Luís Vitor
+>  * <img src="https://avatars.githubusercontent.com/u/78814807?v=4"  height="70" width="70"/>
+>  * Sobre: Cursando Sistemas da Informação e formado como Técnico em Redes de Computadores.
+>  * Principais Tecnologias: JavaScript/TypeScript, NodeJS, ReactJS.
+>  * Áreas de Interesse : Desenvolvimento web e mobile.
+>  * Email: luis.sg.vitor@gmail.com
+>  * [GitHub](https://github.com/stra1g)
+>  * [Linkedin](https://www.linkedin.com/in/lu%C3%ADs-vitor-vilhena-alves-9568a5206/)
 
 
 
