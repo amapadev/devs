@@ -118,6 +118,15 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 >  * [GitHub](https://github.com/stra1g)
 >  * [Linkedin](https://www.linkedin.com/in/lu%C3%ADs-vitor-vilhena-alves-9568a5206/)
 
+## Júnior Silva
+>  * <img src="https://s.gravatar.com/avatar/63c266a6a81b745311fc415618ca2bc6?s=80"  height="70" width="70"/>
+>  * Sobre: Graduado em análise de sistemas com especialização em engenharia e arquitetura de software.
+>  * Principais Tecnologias: Javascript, NodeJS, Reac Native, Docker, AWS, GCP, Serverless, Gerência de Projetos.
+>  * Áreas de Interesse : Desenvolvimento Backend e Mobile, Gestão de TI.
+>  * Email: devtucuju@gmail.com
+>  * [GitHub](https://github.com/devtucuju)
+>  * [Linkedin](https://www.linkedin.com/in/devtucuju)
+
 ###### Template
 
 ## Seu Nome
