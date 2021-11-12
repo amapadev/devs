@@ -53,8 +53,8 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 
 ## Josué Barros
 >  * <img src="https://avatars3.githubusercontent.com/u/39782688?s=460&u=1a984e2eb5f045bfcb59e780bf11cbf3c8cbabea&v=4"  height="70" width="70"> <img>
->  * Sobre: Formando em Ciência da Computação pela Universidade Federal do Amapá. Técnico em redes de computadores pela Faculdade de Macapá.
->  * Principais Tecnologias: PHP, Node.js, React JS, MySQL, PostgreSQL, MongoDB.
+>  * Sobre: Gerente de Núcleo/Núcleo de Banco de Dados/Coordenadoria de Tecnologia da Informação na Controladoria Geral do Estado do Amapá. Formando em Ciência da Computação pela Universidade Federal do Amapá. Técnico em redes de computadores pela Faculdade de Macapá.
+>  * Principais Tecnologias: PHP, Laravel, Node.js, React JS, MySQL, PostgreSQL, MongoDB, Docker.
 >  * Áreas de Interesse : Desenvolvimento web. Banco de Dados. DevOps.
 >  * Email: josue.barros1986@gmail.com
 >  * [GitHub](https://github.com/JoshuaWebDev)
@@ -72,13 +72,13 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 
 ## Anthoni Ipiranga
 >  * <img src="https://avatars0.githubusercontent.com/u/17752700?s=460&u=c5cb362cec874e0facc3b402be1b772df89e6e46&v=4"  height="70" width="70"/>
->  * Sobre: Formado em redes de computadores pelo IFAP e atualmente estudando Ciência da computação na UNIFAP. Atuando como desenvolvedor Android.
->  * Principais Tecnologias: Android SDK,Android nativo em Java/Kotlin,Firebase,Retrofit,Material Design.
+>  * Sobre: Formado em redes de computadores pelo IFAP e atualmente cursando Ciência da computação na UNIFAP. Atuando como desenvolvedor Android na [HANZO](https://www.hanzo.com.br/).
+>  * Principais Tecnologias: Android SDK,Android nativo em Java/Kotlin,Firebase,Retrofit,Material Design, Coroutines, RXJava.
 >  * Áreas de Interesse : Mobile nativo(Android e IOS), clean architecture, arquitetura de software, engenharia de software, design patterns.
 >  * Email: anthoni.ipiranga@gmail.com
 >  * [GitHub](https://github.com/AnthoniIP)
 >  * [Linkedin](https://www.linkedin.com/in/anthoniipiranga/)
->  * [Conheça mais sobre Anthoni](https://aidev.com.br)
+>  * [Conheça mais sobre Anthoni](https://anthoniip.github.io/)
 
 ## Johnathan Rocha
 >  * <img src="https://avatars.githubusercontent.com/u/52468127?s=400&u=616b07100fb4ab85bb8428dee69530c2329dde65&v=4"  height="70" width="70"/>
@@ -90,14 +90,43 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 >  * [Linkedin](https://www.linkedin.com/in/johnathan-rocha-27574a191/)
 
 ## Eduardo Worrel
- >  * <img src="https://eduardoworrel.com/imgs/eu.jpeg"  height="70" width="70"/>
- >  * Sobre: Desenvolvedor .NET na Federação das industrias do Rio de Janeiro, Especializado em Arquiterura de Software e Docência do Ensino Superior.
- >  * Principais Tecnologias: .NET, PHP, Javascript, Docker, Git, Swagger entre outras.
- >  * Áreas de Interesse : Scrum e Metodologias ágeis, Arquitetura e Engenharia de Software, Educação, Artes, Ciencias e Filosofias.
- >  * Email: eduardo.worrel@gmail.com
- >  * [GitHub](https://github.com/eduardoworrel)
- >  * [Portfólio](https://eduardoworrel.com)
- >  * [Linkedin](https://www.linkedin.com/in/eduardoworrel/)
+>  * <img src="https://eduardoworrel.com/imgs/eu.jpeg"  height="70" width="70"/>
+>  * Sobre: Desenvolvedor .NET na Federação das industrias do Rio de Janeiro, Especializado em Arquiterura de Software e Docência do Ensino Superior.
+>  * Principais Tecnologias: .NET, PHP, Javascript, Docker, Git, Swagger entre outras.
+>  * Áreas de Interesse : Scrum e Metodologias ágeis, Arquitetura e Engenharia de Software, Educação, Artes, Ciencias e Filosofias.
+>  * Email: eduardo.worrel@gmail.com
+>  * [GitHub](https://github.com/eduardoworrel)
+>  * [Portfólio](https://eduardoworrel.com)
+>  * [Linkedin](https://www.linkedin.com/in/eduardoworrel/)
+
+## Leon Paolo
+>  * <img src="https://avatars.githubusercontent.com/u/40367631?s=400&u=6a81583f9f7150dfd6971d88113382b62dfaac93&v=4"  height="70" width="70"/>
+>  * Sobre: Graduado em sistema para internert (Faculdade Meta), atualmente desenvolvendo projeto para aborização urbana, em constante evolução nas técnicas de desenvolvimento.
+>  * Principais Tecnologias: PHP/Laravel. 
+>  * Principais Tecnologias: PHP/Laravel, Javascript/NodeJs.
+>  * Áreas de Interesse : Web, Mobile, Segurança da informação, Java.
+>  * Email: leon.paolo.br.lp@gmail.com
+>  * [GitHub](https://github.com/leonpaolo)
+>  * [Linkedin](https://www.linkedin.com/in/leon-paolo-206166122/)
+
+## Luís Vitor
+>  * <img src="https://avatars.githubusercontent.com/u/78814807?v=4"  height="70" width="70"/>
+>  * Sobre: Cursando Sistemas da Informação e formado como Técnico em Redes de Computadores.
+>  * Principais Tecnologias: JavaScript/TypeScript, NodeJS, ReactJS.
+>  * Áreas de Interesse : Desenvolvimento web e mobile.
+>  * Email: luis.sg.vitor@gmail.com
+>  * [GitHub](https://github.com/stra1g)
+>  * [Linkedin](https://www.linkedin.com/in/lu%C3%ADs-vitor-vilhena-alves-9568a5206/)
+
+## Júnior Silva
+>  * <img src="https://s.gravatar.com/avatar/63c266a6a81b745311fc415618ca2bc6?s=80"  height="70" width="70"/>
+>  * Sobre: Graduado em análise de sistemas com especialização em engenharia e arquitetura de software.
+>  * Principais Tecnologias: Javascript, NodeJS, Reac Native, Docker, AWS, GCP, Serverless, Gerência de Projetos.
+>  * Áreas de Interesse : Desenvolvimento Backend e Mobile, Gestão de TI.
+>  * Email: devtucuju@gmail.com
+>  * [GitHub](https://github.com/devtucuju)
+>  * [Linkedin](https://www.linkedin.com/in/devtucuju)
+
 ###### Template
 
 ## Seu Nome
