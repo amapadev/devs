@@ -91,7 +91,7 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 
 ## Eduardo Worrel
 >  * <img src="https://eduardoworrel.com/imgs/eu.jpeg"  height="70" width="70"/>
->  * Sobre: Desenvolvedor C# Pleno na Tegra LTDA, Especializado em Arquiterura de Software e Docência do Ensino Superior.
+>  * Sobre: Desenvolvedor .NET na Federação das industrias do Rio de Janeiro, Especializado em Arquiterura de Software e Docência do Ensino Superior.
 >  * Principais Tecnologias: .NET, PHP, Javascript, Docker, Git, Swagger entre outras.
 >  * Áreas de Interesse : Scrum e Metodologias ágeis, Arquitetura e Engenharia de Software, Educação, Artes, Ciencias e Filosofias.
 >  * Email: eduardo.worrel@gmail.com
