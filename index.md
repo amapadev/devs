@@ -71,9 +71,10 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 >  * [Linkedin](https://www.linkedin.com/in/daniel-albuquerque-b0648090/)
 
 ## Anthoni Ipiranga
->  * <img src="https://avatars0.githubusercontent.com/u/17752700?s=460&u=c5cb362cec874e0facc3b402be1b772df89e6e46&v=4"  height="70" width="70"/>
->  * Sobre: Formado em redes de computadores pelo IFAP e atualmente cursando Ciência da computação na UNIFAP. Atuando como desenvolvedor Android na [HANZO](https://www.hanzo.com.br/).
->  * Principais Tecnologias: Android SDK,Android nativo em Java/Kotlin,Firebase,Retrofit,Material Design, Coroutines, RXJava.
+>  * <img src="https://avatars.githubusercontent.com/u/17752700?v=4"  height="70" width="70"/>
+>  * Sobre: Sou técnico em redes de computadores pelo IFAP e atualmente cursando bacharelado em ciência da computação na UNIFAP e tecnólogo em desenvolvimento mobile na Ampli. 
+>  * Atuando como desenvolvedor e engenheiro Android na [Aiqfome](https://aiqfome.com/)/Magalu.
+>  * Principais Tecnologias: Android SDK,Android nativo em Java/Kotlin,Firebase,Retrofit,Material Design, Coroutines, RXJava, Google API's (Google Maps SDK, Firebase,etc.) 
 >  * Áreas de Interesse : Mobile nativo(Android e IOS), clean architecture, arquitetura de software, engenharia de software, design patterns.
 >  * Email: anthoni.ipiranga@gmail.com
 >  * [GitHub](https://github.com/AnthoniIP)
