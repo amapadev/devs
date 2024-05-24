@@ -74,7 +74,7 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 >  * <img src="https://avatars.githubusercontent.com/u/17752700?v=4"  height="70" width="70"/>
 >  * Sobre: Sou técnico em redes de computadores pelo IFAP e tecnólogo em desenvolvimento mobile pela Ampli. Atualmente em busca de uma pós graduação em engenharia de software.
 >  * Atuando como desenvolvedor e engenheiro Android na [Luizalabs](https://www.linkedin.com/company/luizalabs/) no SuperApp Magalu.
->  * Principais Tecnologias: Android SDK,Android nativo em Java/Kotlin,Firebase,Retrofit,Material Design, Coroutines, RXJava, Google API's (Google Maps SDK, Firebase,etc.) 
+>  * Principais Tecnologias: Android SDK, Android nativo em Java/Kotlin, Firebase, Retrofit, Material Design, Coroutines, RXJava, Google API's (Google Maps SDK, Firebase,etc.) 
 >  * Áreas de Interesse : Mobile nativo(Android e IOS), clean architecture, arquitetura de software, engenharia de software, design patterns.
 >  * Email: anthoni.ipiranga@gmail.com
 >  * [GitHub](https://github.com/AnthoniIP)
