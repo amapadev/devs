@@ -72,14 +72,14 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 
 ## Anthoni Ipiranga
 >  * <img src="https://avatars.githubusercontent.com/u/17752700?v=4"  height="70" width="70"/>
->  * Sobre: Sou técnico em redes de computadores pelo IFAP e tecnólogo em desenvolvimento mobile pela Ampli. Atualmente em busca de uma pós graduação em engenharia de software.
->  * Atuando como desenvolvedor e engenheiro Android na [Luizalabs](https://www.linkedin.com/company/luizalabs/) no SuperApp Magalu.
+>  * Sobre: Sou técnico em redes de computadores e graduado em desenvolvimento mobile. Pós-graduado em engenharia e arquitetura de software.
+>  * Atuando como desenvolvedor Android na [Luizalabs](https://www.linkedin.com/company/luizalabs/) no SuperApp Magalu.
 >  * Principais Tecnologias: Android SDK,Android nativo em Java/Kotlin,Firebase,Retrofit,Material Design, Coroutines, RXJava, Google API's (Google Maps SDK, Firebase,etc.) 
->  * Áreas de Interesse : Mobile nativo(Android e IOS), clean architecture, arquitetura de software, engenharia de software, design patterns.
+>  * Áreas de Interesse : Mobile nativo, arquitetura de software, engenharia de software e escrita técnica.
 >  * Email: anthoni.ipiranga@gmail.com
->  * [GitHub](https://github.com/AnthoniIP)
->  * [Linkedin](https://www.linkedin.com/in/anthoniipiranga/)
->  * [Conheça mais sobre Anthoni](https://ipirangasoft.com)
+>  * [GitHub](https://github.com/ipirangad3v)
+>  * [Linkedin](https://www.linkedin.com/in/ipirangadev/)
+
 
 ## Johnathan Rocha
 >  * <img src="https://avatars.githubusercontent.com/u/52468127?s=400&u=616b07100fb4ab85bb8428dee69530c2329dde65&v=4"  height="70" width="70"/>
