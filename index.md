@@ -72,13 +72,13 @@ Para enviar seu portifólio basta editar este arquivo [Aqui](https://github.com/
 
 ## Anthoni Ipiranga
 >  * <img src="https://avatars.githubusercontent.com/u/17752700?v=4"  height="70" width="70"/>
->  * Sobre: Sou técnico em redes de computadores e graduado em desenvolvimento mobile. Pós-graduado em engenharia e arquitetura de software.
+>  * Sobre: Graduado em desenvolvimento mobile. Pós-graduado em engenharia e arquitetura de software.
 >  * Atuando como desenvolvedor Android na [Luizalabs](https://www.linkedin.com/company/luizalabs/) no SuperApp Magalu.
 >  * Principais Tecnologias: Android SDK,Android nativo em Java/Kotlin,Firebase,Retrofit,Material Design, Coroutines, RXJava, Google API's (Google Maps SDK, Firebase,etc.) 
 >  * Áreas de Interesse : Mobile nativo, arquitetura de software, engenharia de software e escrita técnica.
 >  * Email: anthoni.ipiranga@gmail.com
->  * [GitHub](https://github.com/ipirangad3v)
->  * [Linkedin](https://www.linkedin.com/in/ipirangadev/)
+>  * [GitHub](https://github.com/tonimadev)
+>  * [Linkedin](https://www.linkedin.com/in/tonimadev/)
 
 
 ## Johnathan Rocha
